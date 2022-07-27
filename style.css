@@ -1,0 +1,99 @@
+.banner-bg {
+    background-color:
+        #FFF9F4;
+}
+
+.logo img {
+    width: 280px;
+
+}
+
+.nav-link {
+    color: #3C3C3C;
+}
+
+.text {
+    padding-left: 17%;
+}
+
+.title-1 {
+    font-size: 80px;
+    color: #FA804C;
+    font-family: Bebas Neue;
+}
+
+.title-2 {
+    font-size: 80px;
+    color: #363958;
+    font-family: Bebas Neue;
+
+}
+
+.card-img-top {
+    width: 318px;
+    height: 311px;
+}
+
+.img-bg {
+    background-color:
+        #F1F1F1;
+}
+
+.price {
+    color: #FA804C;
+}
+
+.card-title {
+    color: #363958;
+}
+
+.icons {
+    width: 80px;
+    height: 86px;
+}
+
+.blog {
+    margin-top: 10%;
+}
+
+.size {
+    height: 340px;
+}
+
+.blog-body {
+    max-width: 440px;
+}
+
+.contact-bg {
+    background-color: #363958;
+}
+
+footer {
+    background-color: #FFF9F4;
+    ;
+}
+
+@media only screen and (max-width: 575.98px) {
+
+
+    .text {
+        padding-left: 25px;
+    }
+
+    .title-1 {
+        font-size: 70px;
+    }
+
+    .title-2 {
+        font-size: 70px;
+    }
+
+    .blog-img img {
+        margin-left: 140px;
+    }
+
+    .blog-info {
+        text-align: center;
+        padding-left: 0;
+    }
+}
