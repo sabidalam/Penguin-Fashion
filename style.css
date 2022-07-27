@@ -57,7 +57,7 @@
 }
 
 .size {
-    height: 340px;
+    height: 320px;
 }
 
 .blog-body {
@@ -75,6 +75,9 @@ footer {
 
 @media only screen and (max-width: 575.98px) {
 
+    .banner {
+        flex-direction: column-reverse;
+    }
 
     .text {
         padding-left: 25px;
@@ -86,6 +89,10 @@ footer {
 
     .title-2 {
         font-size: 70px;
+    }
+
+    .blogs {
+        flex-direction: column-reverse;
     }
 
     .blog-img img {
